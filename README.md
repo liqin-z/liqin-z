@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-**What I code in GitLab** 
+## Me on `GitLab` 👨🏻‍💻 
 <!--START_SECTION:waka-->
 <p align="center">
    <img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/79778bee-6040-49d6-a62b-2ab21e2cd9d7.svg"/>
