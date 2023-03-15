@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **liqin-z/liqin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/79778bee-6040-49d6-a62b-2ab21e2cd9d7.svg"></embed></figure>
+**What I code in GitLab** 
+<!--START_SECTION:waka-->
+<p align="center">
+   <img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/79778bee-6040-49d6-a62b-2ab21e2cd9d7.svg"/>
+</p>
+<!--END_SECTION:waka-->
