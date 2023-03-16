@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## Me on `GitLab` 👨🏻‍💻 
 <!--START_SECTION:waka-->
 <p align="center">
-   <img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/79778bee-6040-49d6-a62b-2ab21e2cd9d7.svg"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/45992915-d953-4c7d-93a2-4463299b087c.png" /></a>
 </p>
 <!--END_SECTION:waka-->
