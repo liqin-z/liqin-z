@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Me on `GitLab` 👨🏻‍💻 
 <!--START_SECTION:waka-->
 <p align="center">
-<img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/fc4fd783-778c-4ce0-95af-e142161f80c2.svg"></img>
+<img src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/66c7a61a-7422-4288-b780-8d56b4ab57ab.svg"></img>
 </p>
 <!--END_SECTION:waka-->
+*Update based on WakaTime API may delay by 1~2 days*
